@@ -1,4 +1,4 @@
-## olá, eu sou o Eduardo Meneses, desenvolvedor web!
+## Olá, eu sou o Eduardo Meneses, desenvolvedor web!
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="center">
   <a href="https://github.com/eduoop">
