@@ -1,25 +1,50 @@
-## Olá, eu sou o Eduardo Meneses, desenvolvedor web!
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<div align="center">
-  <a href="https://github.com/eduoop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduoop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduoop&layout=compact&langs_count=7&theme=dracula"/>
+## **Hi, I'm Eduardo Meneses** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+
+### Full Stack Developer
+
+- 👨‍💻 My current stack includes: TypeScript, NodeJS, ReactJS, React Native, NextJS, and AdonisJS.
+- 💼 Current working in <strong>Clicksoft as Junior Fullstack NodeJS/ReactJS</strong> and <strong> freelancing with as Full Stack Node, React & React Native</strong>.
+- 🌍 Born in Brazil 🇧🇷.
+- 🖥️ Check out my [Portfolio](https://edudeveloper.com.br/)
+
+### Technologies
+
+<div text-align="justify">  
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=adonisjs" height="40" alt="AdonisJS logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled-Components logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo" />
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-  ##
-  
-  <div> 
-  <a href="https://www.instagram.com/eduardo_omp/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardomoraesdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-moraes-718a02219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-![Snake animation](https://github.com/eduoop/eduoop/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduoop&show_icons=true&theme=transparent&layout=compact&langs_count=6)
+
+### Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Meneses-20232A?style=for-the-badge&logo=Linkedin&logoColor=61DAFB&link=https://www.linkedin.com/in/eduardo-meneses-8277bb289/)](https://www.linkedin.com/in/eduardo-meneses-8277bb289/)
+[![Website Badge](https://img.shields.io/badge/-edudeveloper.com.br-20232A?style=for-the-badge&logo=Google%20Chrome&logoColor=61DAFB&link=https://edudeveloper.com.br/)](https://edudeveloper.com.br/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-20232A?style=for-the-badge&logo=WhatsApp&logoColor=61DAFB&link=https://api.whatsapp.com/send?phone=31982623783)](https://api.whatsapp.com/send?phone=31982623783)
