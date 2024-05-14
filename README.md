@@ -63,7 +63,6 @@
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
-<img width="4" />
 </div>
 
 ### Stats
