@@ -31,8 +31,6 @@
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=adonisjs" height="40" alt="AdonisJS logo" />
-<img width="4" />
 <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
@@ -65,6 +63,7 @@
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
+<img width="4" />
 </div>
 
 ### Stats
