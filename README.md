@@ -32,8 +32,6 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=adonisjs" height="40" alt="AdonisJS logo" />
-<img width="4" />
 <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
