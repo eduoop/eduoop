@@ -11,32 +11,60 @@
 
 <div text-align="justify">  
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=adonisjs" height="40" alt="AdonisJS logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled-Components logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="ReactJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled-Components logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=adonisjs" height="40" alt="AdonisJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="Bitbucket logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn logo" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
 </div>
 
 ### Stats
