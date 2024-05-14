@@ -10,7 +10,7 @@
 ### Technologies
 
 <div text-align="justify">  
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
 <img width="4" />
@@ -29,7 +29,10 @@
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo" />
+
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo" />
+<img width="4" />
+<img src="https://skillicons.dev/icons?i=adonisjs" height="40" alt="AdonisJS logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM logo" />
 <img width="4" />
@@ -60,6 +63,7 @@
 <img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn logo" />
+
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
