@@ -44,8 +44,6 @@
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
 <img width="4" />
-<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud logo" />
-<img width="4" />
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku logo" />
