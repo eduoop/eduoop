@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-- 👨‍💻 My current stack includes: TypeScript, NodeJS, ReactJS, React Native, NextJS, and AdonisJS.
+- 👨‍💻 My current stack includes: TypeScript, NodeJS, ReactJS, React Native, NextJS, and NestJS.
 - 💼 Current working in <strong>Clicksoft as Fullstack NodeJS/ReactJS</strong> and <strong> freelancing with as Full Stack Node, React & React Native</strong>.
 - 🌍 Born in Brazil 🇧🇷.
 - 🖥️ Check out my [Portfolio](https://edudeveloper.com.br/)
