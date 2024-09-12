@@ -46,6 +46,8 @@
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
 <img width="4" />
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure logo" />
+<img width="4" />
 <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="Heroku logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
