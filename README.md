@@ -40,6 +40,8 @@
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
 <img width="4" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo" />
+<img width="4" />
 <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo" />
 <img width="4" />
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
