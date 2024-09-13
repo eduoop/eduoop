@@ -3,7 +3,7 @@
 ### Full Stack Developer
 
 - 👨‍💻 My current stack includes: TypeScript, NodeJS, ReactJS, React Native, NextJS, and NestJS.
-- 💼 Currently working as a <strong>Fullstack Developer with React.js</strong> and  <strong>React Native</strong>. Freelancing with expertise in <strong>Full Stack Node, Nest, React, and React Native</strong>.
+- 💼 Currently working as a <strong>Frontend Developer with React.js</strong> and  <strong>React Native</strong>. Freelancing with expertise in <strong>Full Stack Node, Nest, React, and React Native</strong>.
 - 🌍 Born in Brazil 🇧🇷.
 - 🖥️ Check out my [Portfolio](https://edudeveloper.com.br/)
 
